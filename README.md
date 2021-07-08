@@ -1,2 +1,7 @@
-# sentiment-analysis-pr1
-NLP Exploration and Modelling for Insights and Recommendations
+# Analytics projects
+
+1. Energy Consumption Analytics   
+- Predictive Analytics  
+- NLP Analytics  
+2. Electric Vehicle Communication Analytics  
+- NLP Analytics   
