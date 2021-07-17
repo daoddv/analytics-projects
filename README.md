@@ -1,6 +1,6 @@
 # Analytics projects  
 *Education Projects*  
-**1. Energy Consumption Analytics**   
+**1. [Energy Consumption Analytics](https://github.com/daoddv/analytics-projects/tree/master/projects/01-energy-consumption-analytics)**   
 *Perform Analysis for Energy Consumption dataset and Twitter dataset*  
 - Data Exploration & Preparation  
 - Predictive Analytics  
