@@ -1,5 +1,5 @@
-# Analytics projects
-
+# Analytics projects  
+*Education Projects*  
 **1. Energy Consumption Analytics**   
 - Predictive Analytics  
 - NLP Analytics   
