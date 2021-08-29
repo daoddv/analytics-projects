@@ -9,7 +9,7 @@
 ![image](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/screenshots/03-consumption-over-time.png)
 - Consumption Patterns
 ![image](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/screenshots/03-consumption-patterns.png)
-- Consumption Prediction
+- Consumption Prediction  
 ![image](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/screenshots/03-consumption-prediction.png)
 - Consumption vs. HDD
 ![image](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/screenshots/03-consumption-vs-HDD.png)
