@@ -12,9 +12,9 @@
 ### II. Academic training projects
 **1. [Energy Consumption Analytics](https://github.com/daoddv/analytics-projects/tree/master/projects/01-energy-consumption-analytics)**   
 *Data Visualization and Predictive Analysis for Energy Consumption dataset; and NLP Analysis for Twitter dataset*  
-- Data Exploration & Preparation  
-- Predictive Analytics  
-- NLP Analytics   
+- [Data Exploration & Preparation](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/BUS5PR1_Energy_consumption_p1.ipynb)  
+- [Predictive Analytics](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/BUS5PR1_Energy_consumption_p2.ipynb)  
+- [NLP Analytics](https://github.com/daoddv/analytics-projects/blob/master/projects/01-energy-consumption-analytics/BUS5PR1_Energy_mangement_solutions_sprint02.ipynb)   
 
 **2. [Electric Vehicle Communication NLP Analytics](https://github.com/daoddv/analytics-projects/tree/master/projects/02-electric-vehicle-communication-analytics)**  
 *NLP Analysis for Reddit comments dataset*  
